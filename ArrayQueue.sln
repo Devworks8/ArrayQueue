@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayQueue", "ArrayQueue.csproj", "{06950D4D-6EDF-4029-8087-CB7350CFA403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06950D4D-6EDF-4029-8087-CB7350CFA403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06950D4D-6EDF-4029-8087-CB7350CFA403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06950D4D-6EDF-4029-8087-CB7350CFA403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06950D4D-6EDF-4029-8087-CB7350CFA403}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6228A71A-24B5-4264-8277-FC901492E5E2}
+	EndGlobalSection
+EndGlobal
